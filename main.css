@@ -1,0 +1,46 @@
+body {
+
+    background-color: #ccc;
+}
+
+.container {
+    background-color: #ffff;
+    padding: 20px;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.title {
+    text-decoration: underline;
+    color: rgb(44, 118, 237);
+    /* text-shadow: 1px 1px 1px #000; */
+}
+
+.form-register {
+    padding: 8px 16px;
+    width: 100%;
+    max-width: 300px;
+}
+
+.form-group {
+
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group input {
+    width: 70%;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.red {
+    color: red;
+}
+
+.p-title {
+    margin: 10px 0 0 0;
+}
